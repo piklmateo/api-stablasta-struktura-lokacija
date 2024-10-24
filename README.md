@@ -1,4 +1,4 @@
-# Pinecone_Zadatak_2krug
+API stablasta struktura lokacija
 
 API - HTTP endpointi i klase objekata za održavanje stablaste strukture lokacija
 
